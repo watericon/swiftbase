@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (4.5.0)
+  - AlamofireObjectMapper (4.1.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 2.0)
+  - MBProgressHUD (1.0.0)
+  - MJExtension (3.0.13)
+  - MJRefresh (3.1.12)
+  - ObjectMapper (2.2.7)
+  - ReachabilitySwift (3)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - SnapKit (3.2.0)
+  - SwiftyGif (3.0.3)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireObjectMapper
+  - MBProgressHUD
+  - MJExtension
+  - MJRefresh
+  - ObjectMapper
+  - ReachabilitySwift
+  - SDWebImage
+  - SnapKit
+  - SwiftyGif
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  AlamofireObjectMapper: 435adc82f5b367679bd9e71c4974a54efd0b2521
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  ObjectMapper: 65abcfd9a61cf7396cbd14a4fb22fddfcc46577e
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+  SwiftyGif: 89a0bb19709bdb6990e10405ad456d8bea804a65
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: e9431e671041d6c73ac30694ad35976d86839fea
+
+COCOAPODS: 1.1.1

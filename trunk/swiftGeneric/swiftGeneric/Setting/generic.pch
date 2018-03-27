@@ -1,0 +1,19 @@
+//
+//  generic.pch
+//  swiftGeneric
+//
+//  Created by apple on 2017/8/2.
+//  Copyright © 2017年 apple. All rights reserved.
+//
+
+#ifndef generic_pch
+#define generic_pch
+
+
+#import "Reachability.swift"
+
+
+
+
+
+#endif /* generic_pch */

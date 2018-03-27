@@ -1,0 +1,23 @@
+platform :ios, '8.0'
+inhibit_all_warnings!
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+target 'swiftGeneric' do
+
+pod 'MJRefresh'
+pod 'SDWebImage'
+pod 'SnapKit'
+pod 'Alamofire'
+pod 'ObjectMapper'
+pod 'SwiftyJSON'
+pod 'ReachabilitySwift'
+pod 'MBProgressHUD'
+pod 'ObjectMapper'
+pod 'SwiftyGif'
+pod 'AlamofireObjectMapper'
+pod 'MJExtension'
+
+
+use_frameworks!
+end
